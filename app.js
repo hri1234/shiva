@@ -41,7 +41,7 @@ let allowedOrigins = [
 "https://pososf.netlify.app",
   "http://localhost:3001",
   "https://pos-os-frontend-9p8ngcszy-hritik-4642d12e.vercel.app",
-  "https://admin-dashboard-react-izwc9z2nw-hritik-4642d12e.vercel.app",
+  "https://admin-dashboard-react-5vuqyebwg-hritik-4642d12e.vercel.app",
  
 
 ];
