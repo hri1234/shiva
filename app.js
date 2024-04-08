@@ -44,6 +44,7 @@ let allowedOrigins = [
   "https://pos-os-frontend-dnwvvdkxp-hritik-4642d12e.vercel.app",
   "http://localhost:3002",
    "http://localhost:3003",
+  "https://client-f11m42x5s-hritik-4642d12e.vercel.app"
  
 
 ];
