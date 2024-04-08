@@ -47,7 +47,8 @@ let allowedOrigins = [
   "https://client-f11m42x5s-hritik-4642d12e.vercel.app",
   "https://mail12.netlify.app",
   "https://rondadom.onrender.com",
-  "https://pos-os-frontend-gaqgslnkh-hritik-4642d12e.vercel.app"
+  "https://pos-os-frontend-gaqgslnkh-hritik-4642d12e.vercel.app",
+  "https://rondadom.onrender.com"
  
 
 ];
