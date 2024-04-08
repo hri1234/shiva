@@ -43,6 +43,7 @@ let allowedOrigins = [
   "https://admin-dashboard-react-5qskiocfe-hritik-4642d12e.vercel.app",
   "https://pos-os-frontend-dnwvvdkxp-hritik-4642d12e.vercel.app",
   "http://localhost:3002",
+   "http://localhost:3003",
  
 
 ];
