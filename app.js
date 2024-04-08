@@ -48,7 +48,8 @@ let allowedOrigins = [
   "https://mail12.netlify.app",
   "https://rondadom.onrender.com",
   "https://pos-os-frontend-gaqgslnkh-hritik-4642d12e.vercel.app",
-  "https://rondadom.onrender.com"
+  "https://rondadom.onrender.com",
+  "https://admin-dashboard-react-mbxclodab-hritik-4642d12e.vercel.app"
  
 
 ];
